@@ -1,0 +1,64 @@
+Epoch [1/10], Loss: 0.0452
+Epoch [2/10], Loss: 0.0412
+Epoch [3/10], Loss: 0.0403
+Epoch [4/10], Loss: 0.0403
+Epoch [5/10], Loss: 0.0395
+Epoch [6/10], Loss: 0.0397
+Epoch [7/10], Loss: 0.0394
+Epoch [8/10], Loss: 0.0397
+Epoch [9/10], Loss: 0.0393
+Epoch [10/10], Loss: 0.0391
+Average Test Loss: 0.0412
+Epoch [1/10], Loss: 0.1008
+Epoch [2/10], Loss: 0.0624
+Epoch [3/10], Loss: 0.0526
+Epoch [4/10], Loss: 0.0508
+Epoch [5/10], Loss: 0.0487
+Epoch [6/10], Loss: 0.0476
+Epoch [7/10], Loss: 0.0483
+Epoch [8/10], Loss: 0.0480
+Epoch [9/10], Loss: 0.0492
+Epoch [10/10], Loss: 0.0491
+Average Test Loss: 0.0493
+Average Test Loss: 0.0493
+accuracy : 90%
+Epoch [1/10], Loss: 0.0455
+Epoch [1/5], Loss: 0.0451
+Epoch [2/5], Loss: 0.0414
+Epoch [3/5], Loss: 0.0406
+Epoch [4/5], Loss: 0.0399
+Epoch [5/5], Loss: 0.0398
+Average Test Loss: 0.0399
+Epoch [1/5], Loss: 0.0439
+Epoch [2/5], Loss: 0.0403
+Epoch [1/5], Loss: 0.0422
+Epoch [2/5], Loss: 0.0391
+Epoch [3/5], Loss: 0.0380
+Epoch [4/5], Loss: 0.0375
+Epoch [5/5], Loss: 0.0370
+Average Test Loss: 0.0388
+Epoch [1/5], Loss: 0.0363
+Epoch [1/5], Loss: 0.0358
+Epoch [2/5], Loss: 0.0355
+Epoch [3/5], Loss: 0.0350
+Epoch [4/5], Loss: 0.0347
+Epoch [5/5], Loss: 0.0343
+Average Test Loss: 0.0378
+Epoch [1/10], Loss: 0.0294
+Epoch [2/10], Loss: 0.0212
+Epoch [3/10], Loss: 0.0182
+Epoch [4/10], Loss: 0.0162
+Epoch [5/10], Loss: 0.0144
+Epoch [6/10], Loss: 0.0129
+Epoch [7/10], Loss: 0.0114
+Average Test Loss: 0.0204
+accuracy : 90%
+accuracy : 90%
+accuracy : 90%
+accuracy : 90%
+accuracy : 90%
+accuracy : 90%
+accuracy : 90%
+accuracy : 90%
+accuracy : 90%
+accuracy : 90%
